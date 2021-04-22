@@ -1,5 +1,4 @@
 ## CV
-<img src="tux.png" alt="Tux, the Linux penguin" width=250px>
 
 ----  
 #### Name:
