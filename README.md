@@ -1,12 +1,12 @@
 ----  
-####Name:
+#### Name:
 Not Real  
-####Date of Birth:
+#### Date of Birth:
 2077-04-20  
-####City / Postal Code: 
+#### City / Postal Code: 
 Fictional 1337
 
 ----  
 
-####About:
+#### About:
 This is supposed to be a CV for the exercise, though I disagree with putting it into the README file.
