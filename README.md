@@ -1,5 +1,5 @@
 ## CV
-![Tux, the Linux penguin](tux.png =250x)
+<img src="tux.png" alt="Tux, the Linux penguin" width=250px>
 
 ----  
 #### Name:
