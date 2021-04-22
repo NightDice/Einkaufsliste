@@ -1,5 +1,5 @@
 ## CV
-![Tux, the Linux penguin](tux.png)
+![Tux, the Linux penguin](tux.png =250x)
 
 ----  
 #### Name:
